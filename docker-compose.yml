@@ -1,0 +1,52 @@
+x-service-template: &base-model-service
+  build:
+    context: .
+    dockerfile: Dockerfile.model
+  mem_limit: 60g
+  memswap_limit: 60g
+  restart: no
+  volumes:
+    - .:/app
+    - /srv:/srv   
+  working_dir: /app
+  deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            count: all
+            capabilities: [gpu]
+
+
+services:
+  bert_service:
+    <<: *base-model-service
+    container_name: bert_container
+    command: python -u source/models/embeddings.py
+  
+  baseline:
+    <<: *base-model-service
+    container_name: baseline_container
+    command: python -u source/models/baseline_experiments.py
+    init: true
+  
+  deep_xai:
+    <<: *base-model-service
+    container_name: deep_xai
+    command: python -u source/evaluation/timelstm_explanations.py
+    init: true
+
+  xai:
+    <<: *base-model-service
+    container_name: xai_container
+    command: python -u source/evaluation/xgboost_explanations.py
+
+
+networks:
+  llm_network:
+    external: true
+
+volumes:
+  strad-md-ml_ollama:
+    external: true
+

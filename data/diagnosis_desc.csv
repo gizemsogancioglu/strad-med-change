@@ -1,0 +1,861 @@
+diagnosis_DSM5,description
+D5_1,Neurobiologische ontwikkelingsstoornissen
+D5_1.01,Verstandelijke beperkingen
+D5_1.01.01,Verstandelijke beperking: licht
+D5_1.01.02,Verstandelijke beperking: matig
+D5_1.01.03,Verstandelijke beperking: ernstig
+D5_1.01.04,Verstandelijke beperking: zeer ernstig
+D5_1.01.05,Globale ontwikkelingsachterstand
+D5_1.01.06,Ongespecificeerde verstandelijke beperking (verstandelijke ontwikkelingsstoornis)
+D5_1.02,Communicatiestoornissen
+D5_1.02.01,Taalstoornis
+D5_1.02.02,Spraakklankstoornis
+D5_1.02.03,Stoornis in spraakvloeiendheid
+D5_1.02.03.01,Stoornis in spraakvloeiendheid ontstaan in de volwassenheid
+D5_1.02.03.02,Stoornis in spraakvloeiendheid ontstaan in de kindertijd (ontwikkelingsstotteren)
+D5_1.02.04,Sociale (pragmatische) communicatiestoornis
+D5_1.02.05,Ongespecificeerde communicatiestoornis
+D5_1.03,Autismespectrumstoornis
+D5_1.03.01,Autismespectrumstoornis
+D5_1.04,Aandachtsdefici�ntie-/hyperactiviteitsstoornis
+D5_1.04.01,Aandachtsdefici�ntie-/hyperactiviteitsstoornis: gecombineerd beeld
+D5_1.04.02,Aandachtsdefici�ntie-/hyperactiviteitsstoornis: gecombineerd beeld - gedeeltelijk in remissie
+D5_1.04.03,Aandachtsdefici�ntie-/hyperactiviteitsstoornis: overwegend onoplettend beeld
+D5_1.04.04,Aandachtsdefici�ntie-/hyperactiviteitsstoornis: overwegend onoplettend beeld - gedeeltelijk in remissie
+D5_1.04.05,Aandachtsdefici�ntie-/hyperactiviteitsstoornis: overwegend hyperactief-impulsief beeld
+D5_1.04.06,Aandachtsdefici�ntie-/hyperactiviteitsstoornis: overwegend hyperactief-impulsief beeld - gedeeltelijk in remissie
+D5_1.04.07,Andere gespecificeerde aandachtsdefici�ntie-/hyperactiviteitsstoornis
+D5_1.04.08,Ongespecificeerde aandachtsdefici�ntie-/hyperactiviteitsstoornis
+D5_1.05,Specifieke leerstoornis
+D5_1.05.01,Specifieke leerstoornis: met beperkingen in het lezen
+D5_1.05.02,Specifieke leerstoornis: met beperkingen in de schriftelijke uitdrukkingsvaardigheid
+D5_1.05.03,Specifieke leerstoornis: met beperkingen in het rekenen
+D5_1.06,Motorische stoornissen
+D5_1.06.01,Co�rdinatieontwikkelingsstoornis
+D5_1.06.02,Stereotiepe-bewegingsstoornis
+D5_1.06.02.01,Stereotiepe-bewegingsstoornis: met zelfbeschadigende handelingen
+D5_1.07,Ticstoornissen
+D5_1.07.01,Stoornis van Gilles de la Tourette
+D5_1.07.02,Persisterende (chronische) motorische- of vocale-ticstoornis
+D5_1.07.03,Voorlopige ticstoornis
+D5_1.07.04,Andere gespecificeerde ticstoornis
+D5_1.07.05,Ongespecificeerde ticstoornis
+D5_1.08,Andere neurobiologische ontwikkelingsstoornissen
+D5_1.08.01,Andere gespecificeerde neurobiologische ontwikkelingsstoornis
+D5_1.08.02,Ongespecificeerde neurobiologische ontwikkelingsstoornis
+D5_10,Voedings- en eetstoornissen
+D5_10.01,Pica
+D5_10.02,Ruminatiestoornis
+D5_10.03,Vermijdende/restrictieve voedselinnamestoornis
+D5_10.04,Anorexia nervosa
+D5_10.04.01,Anorexia nervosa: restrictieve type
+D5_10.04.02,Anorexia nervosa: eetbuien- /purgerende type
+D5_10.05,Bulimia nervosa
+D5_10.05.01,Eetbuistoornis: licht
+D5_10.05.02,"Eetbuistoornis: matig, ernstig, zeer ernstig"
+D5_10.06,Andere voedings- of eetstoornissen
+D5_10.06.01,Andere gespecificeerde voedings- of eetstoornis
+D5_10.06.02,Ongespecificeerde voedings- of eetstoornis
+D5_11,Stoornissen in de zindelijkheid
+D5_11.01,Enuresis
+D5_11.01.01,Enuresis: alleen 's nachts
+D5_11.01.02,Enuresis: alleen overdag
+D5_11.01.03,Enuresis: s Nachts en overdag
+D5_11.02,Encopresis
+D5_11.02.01,Encopresis: met obstipatie en overloop incontinentie
+D5_11.02.02,Encopresis: zonder obstipatie en overloop incontinentie
+D5_11.03,Andere stoornissen in de zindelijkheid
+D5_11.03.01,Andere gespecificeerde stoornis in de zindelijkheid met urinaire symptomen
+D5_11.03.02,Andere gespecificeerde stoornis in de zindelijkheid: met fecale symptomen
+D5_11.03.03,Ongespecificeerde stoornis in de zindelijkheid met urinaire symptomen
+D5_11.03.04,Ongespecificeerde stoornis in de zindelijkheid: met fecale symptomen
+D5_12,Slaap-waakstoornissen
+D5_12.01,Insomniastoornis
+D5_12.02,Hypersomnolentiestoornis
+D5_12.03,Narcolepsie
+D5_12.03.01,"Narcolepsie: met kataplexie,zonder hypocretinedefici�ntie"
+D5_12.03.02,Narcolepsie: secundair aan een andere somatische aandoening
+D5_12.04,Ademhalingsgerelateerde slaapstoornissen
+D5_12.04.01,Obstructieve-slaapapneu/hypopneusyndroom
+D5_12.04.02,Centrale slaapapneusyndroom
+D5_12.04.02.01,Idiopatische centrale-slaapapneusyndroom
+D5_12.04.02.02,Cheyne-Stokes-ademhaling
+D5_12.04.02.03,Centrale slaapapneusyndroom bij het gebruik van opio�den
+D5_12.04.03,Slaapgerelateerde hypoventilatie
+D5_12.04.03.01,Idiopatische hypoventilatie
+D5_12.04.03.02,Congenitale centrale alveolaire hypoventilatie
+D5_12.04.03.03,Comorbide slaapgerelateerde hypoventilatie
+D5_12.04.04,Circadianeritme-slaap-waakstoornissen
+D5_12.04.04.01,Circadianeritme-slaap-waakstoornissen: type verlate slaapfase
+D5_12.04.04.02,Circadianeritme-slaap-waakstoornissen: type ploegendienst
+D5_12.04.04.03,Circadianeritme-slaap-waakstoornissen: ongespecificeerde circadianeritme-slaap-waakstoornissen
+D5_12.05,Parasomnia's
+D5_12.05.01,Non-remslaap-arausalstoornissen
+D5_12.05.01.01,Non-remslaap-arausalstoornissen: type slaapwandelen
+D5_12.05.01.02,Non-remslaap-arausalstoornissen: type pavor nocturnus
+D5_12.05.02,Nachtmerriestoornis
+D5_12.05.03,Remslaapgedragstoornis
+D5_12.05.04,Rustelozebenensyndroom
+D5_12.05.05,Slaapstoornis door een middel / medicatie
+D5_12.05.05.01,Slaapstoornis door alcohol
+D5_12.05.05.01.01,Slaapstoornis door alcohol: met begin tijdens intoxicatie
+D5_12.05.05.01.02,Slaapstoornis door alcohol: met begin tijdens onttrekking
+D5_12.05.05.01.03,Slaapstoornis door alcohol: insomnia type
+D5_12.05.05.01.04,Slaapstoornis door alcohol: type met slaperigheid
+D5_12.05.05.01.05,Slaapstoornis door alcohol: parasomnia type
+D5_12.05.05.01.06,Slaapstoornis door alcohol: gemengd type
+D5_12.05.05.02,Slaapstoornis door cafe�ne
+D5_12.05.05.02.01,Slaapstoornis door cafe�ne: insomnia type
+D5_12.05.05.02.02,Slaapstoornis door cafe�ne: type met slaperigheid
+D5_12.05.05.02.03,Slaapstoornis door cafe�ne: parasomnia type
+D5_12.05.05.02.04,Slaapstoornis door cafe�ne: gemengd type
+D5_12.05.05.02.05,Slaapstoornis door cannabis
+D5_12.05.05.03,Slaapstoornis door stimulantia
+D5_12.05.05.03.01,Slaapstoornis door stimulantia: insomnia type
+D5_12.05.05.03.02,Slaapstoornis door stimulantia: type met slaperigheid
+D5_12.05.05.03.03,Slaapstoornis door stimulantia: parasomnia type
+D5_12.05.05.03.04,Slaapstoornis door stimulantia: gemengd type
+D5_12.05.05.04,Slaapstoornis door opio�den
+D5_12.05.05.04.01,Slaapstoornis door opio�den: insomnia type
+D5_12.05.05.04.02,Slaapstoornis door opio�den: type met slaperigheid
+D5_12.05.05.04.03,Slaapstoornis door opio�den: parasomnia type
+D5_12.05.05.04.04,Slaapstoornis door opio�den: gemengd type
+D5_12.05.05.05,Slaapstoornis door hypnotica of anxiolytica
+D5_12.05.05.05.01,Slaapstoornis door hypnotica of anxiolytica: insomnia type
+D5_12.05.05.05.02,Slaapstoornis door hypnotica of anxiolytica: type met slaperigheid
+D5_12.05.05.05.03,Slaapstoornis door hypnotica of anxiolytica: parasomnia type
+D5_12.05.05.05.04,Slaapstoornis door hypnotica of anxiolytica: gemengd type
+D5_12.05.05.05.05,Slaapstoornis door tabak
+D5_12.05.05.06,Slaapstoornis door een ander (of onbekend) middel
+D5_12.05.05.06.01,Slaapstoornis door een ander (of onbekend) middel: insomnia type
+D5_12.05.05.06.02,Slaapstoornis door een ander (of onbekend) middel: type met slaperigheid
+D5_12.05.05.06.03,Slaapstoornis door een ander (of onbekend) middel: parasomnia type
+D5_12.05.05.06.04,Slaapstoornis door een ander (of onbekend) middel: gemengd type
+D5_12.06,Andere slaap- waakstoornissen
+D5_12.06.01,Andere gespecificeerde insomniastoornis
+D5_12.06.02,Ongespecificeerde insomniastoornis
+D5_12.06.03,Andere gespecificeerde hypersomnolentiestoornis
+D5_12.06.04,Ongespecificeerde hypersomnolentiestoornis
+D5_12.06.05,Andere gespecificeerde slaap-waakstoornis
+D5_12.06.06,Ongespecificeerde slaap-waakstoornis
+D5_13,Seksuele disfuncties
+D5_13.01,Vertraagde ejaculatie
+D5_13.02,Erectiestoornis
+D5_13.03,Orgasmestoornis bij de vrouw
+D5_13.04,Seksuele-interesse-/opwindingsstoornis bij de vrouw
+D5_13.05,Genitopelvienepijn-/penetratiestoornis
+D5_13.06,Hypoactief-seksueelverlangenstoornis bij de man
+D5_13.07,Voortijdige ejaculatie
+D5_13.08,Seksuele disfunctie door een middel / medicatie
+D5_13.08.01,Seksuele disfunctie door alcohol
+D5_13.08.01.01,Seksuele disfunctie door alcohol: met begin tijdens intoxicatie
+D5_13.08.01.02,Seksuele disfunctie door alcohol: met begin tijdens onttrekking
+D5_13.08.02,Seksuele disfunctie door een opio�de
+D5_13.08.02.01,Seksuele disfunctie door een opio�de: met begin tijdens intoxicatie
+D5_13.08.02.02,Seksuele disfunctie door een opio�de: met begin tijdens onttrekking
+D5_13.08.03,Seksuele disfunctie door hypnotica of anxiolytica
+D5_13.08.03.01,Seksuele disfunctie door hypnotica of anxiolytica: met begin tijdens intoxicatie
+D5_13.08.03.02,Seksuele disfunctie door hypnotica of anxiolytica: met begin tijdens onttrekking
+D5_13.08.04,Seksuele disfunctie door amfetamine (of andere stimulantia)
+D5_13.08.04.01,Seksuele disfunctie door amfetamine (of andere stimulantia): met begin tijdens intoxicatie
+D5_13.08.04.02,Seksuele disfunctie door amfetamine (of andere stimulantia): met begin tijdens onttrekking
+D5_13.08.05,Seksuele disfunctie door coca�ne
+D5_13.08.05.01,Seksuele disfunctie door coca�ne: met begin tijdens intoxicatie
+D5_13.08.06,Seksuele disfunctie door een ander (of onbekend) middel
+D5_13.08.06.01,Seksuele disfunctie door een ander (of onbekend) middel: met begin tijdens intoxicatie
+D5_13.08.06.02,Seksuele disfunctie door een ander (of onbekend) middel: met begin tijdens ontrekking
+D5_13.09,Andere seksuele disfuncties
+D5_13.09.01,Andere gespecificeerde seksuele disfunctie
+D5_13.09.02,Ongespecificeerde seksuele disfunctie
+D5_14,Genderdysforie
+D5_14.01,Genderdysforie bij adolescenten of volwassenen
+D5_14.02,Andere genderdysforie
+D5_14.02.01,Ongespecificeerde genderdysforie
+D5_14.02.02,Andere gespecificeerde genderdysforie
+D5_15,"Disruptieve, impulsbeheersings- en andere gedragsstoornissen"
+D5_15.01,Oppositioneel-opstandige gedragsstoornis
+D5_15.02,Periodieke explosieve stoornis
+D5_15.03,Normoverschrijdend-gedragsstoornis
+D5_15.03.01,Normoverschrijdend-gedragsstoornis: met begin in de kindertijd
+D5_15.03.02,Normoverschrijdend-gedragsstoornis: met begin in de adolescentie
+D5_15.03.03,Normoverschrijdend-gedragsstoornis: begin ongespecificeerd
+D5_15.04,Antisociale persoonlijkheidsstoornis
+D5_15.05,Kleptomanie
+D5_15.06,Pyromanie
+D5_15.07,"Andere disruptieve, impulsbeheersings- of andere gedragsstoornissen"
+D5_15.07.01,"Andere gespecificeerde disruptieve, impulsbeheersings- of andere gedragsstoornis"
+D5_15.07.02,"Ongespecificeerde disruptieve, impulsbeheersings- of andere gedragsstoornis"
+D5_16,Middelgerelateerde en verslavingsstoornissen
+D5_16.01,Middelgerelateerde stoornissen
+D5_16.01.01,Alcoholgerelateerde stoornissen
+D5_16.01.01.01,Stoornis in alcoholgebruik
+D5_16.01.01.01.01,Stoornis in alcoholgebruik: licht
+D5_16.01.01.01.02,Stoornis in alcoholgebruik: matig
+D5_16.01.01.01.03,Stoornis in alcoholgebruik: ernstig
+D5_16.01.01.02,Alcoholintoxicatie
+D5_16.01.01.03,Alcoholonttrekkingssyndroom
+D5_16.01.01.03.01,Alcoholonttrekkingssyndroom: met perceptiestoornissen
+D5_16.01.01.03.02,Alcoholonttrekkingssyndroom
+D5_16.01.01.04,Ongespecificeerde alcoholgerelateerde stoornis
+D5_16.01.02,Cafe�negerelateerde stoornissen
+D5_16.01.02.01,Cafe�ne-intoxicatie
+D5_16.01.02.02,Cafe�neonttrekkingssyndroom
+D5_16.01.02.03,Ongespecificeerde cafe�negerelateerde stoornis
+D5_16.01.03,Cannabis gerelateerde stoornissen
+D5_16.01.03.01,Stoornis in cannabisgebruik
+D5_16.01.03.01.01,Stoornis in cannabisgebruik: licht
+D5_16.01.03.01.02,"Stoornis in cannabisgebruik: matig, ernstig"
+D5_16.01.03.02,Cannabisintoxicatie
+D5_16.01.03.03,Cannabisonttrekkingssyndroom
+D5_16.01.03.04,Ongespecificeerde cannabis gerelateerde stoornis
+D5_16.01.04,Hallucinogeen gerelateerde stoornissen
+D5_16.01.04.01,Stoornis in fencyclidinegebruik
+D5_16.01.04.01.01,Stoornis in fencyclidinegebruik: licht
+D5_16.01.04.01.02,"Stoornis in fencyclidinegebruik: matig, ernstig"
+D5_16.01.04.02,Stoornis in het gebruik van een hallucinogeen
+D5_16.01.04.02.01,Stoornis in het gebruik van een hallucinogeen: licht
+D5_16.01.04.02.02,"Stoornis in het gebruik van een hallucinogeen: matig, ernstig"
+D5_16.01.04.03,Fencyclidine-intoxicatie
+D5_16.01.04.04,Intoxicatie door een hallucinogeen
+D5_16.01.04.05,Persisterende perceptiestoornis door een hallucinogeen
+D5_16.01.04.06,Ongespecificeerde fencyclidinegerelateerde stoornis
+D5_16.01.04.07,Ongespecificeerde hallucinogeengerelateerde stoornis
+D5_16.01.05,Inhalantium gerelateerde stoornissen
+D5_16.01.05.01,Stoornis in het gebruik van een inhalantium
+D5_16.01.05.01.01,Stoornis in het gebruik van een inhalantium: licht
+D5_16.01.05.01.02,"Stoornis in het gebruik van een inhalantium: matig, ernstig"
+D5_16.01.05.02,Intoxicatie door een inhalantium
+D5_16.01.05.03,Ongespecificeerde inhalantiumgerelateerde stoornis
+D5_16.01.06,Opio�de gerelateerde stoornissen
+D5_16.01.06.01,Stoornis in het gebruik van een opio�de
+D5_16.01.06.01.01,Stoornis in het gebruik van een opio�de: licht
+D5_16.01.06.01.02,"Stoornis in het gebruik van een opio�de: matig, ernstig"
+D5_16.01.06.02,Intoxicatie door een opio�de
+D5_16.01.06.03,Onttrekkingssyndroom van een opio�de
+D5_16.01.06.04,Ongespecificeerde opio�degerelateerde stoornis
+D5_16.01.07,Hypnoticum- of anxiolyticum gerelateerde stoornissen
+D5_16.01.07.01,Stoornis in het gebruik van een hypnoticum of anxiolyticum
+D5_16.01.07.01.01,Stoornis in het gebruik van een hypnoticum of anxiolyticum: licht
+D5_16.01.07.01.02,"Stoornis in het gebruik van een hypnoticum of anxiolyticum: matig, ernstig"
+D5_16.01.07.02,Intoxicatie door een hypnoticum of anxiolyticum
+D5_16.01.07.03,Onttrekkingssyndroom van een hypnoticum of anxiolyticum
+D5_16.01.07.04,Ongespecificeerde hypnoticum- of anxiolyticumgerelateerde stoornis
+D5_16.01.08,Stimulantium gerelateerde stoornissen
+D5_16.01.08.01,Stoornis in het gebruik van een stimulantium
+D5_16.01.08.01.01,Stoornis in het gebruik van een stimulantium: amfetamineachtig middel
+D5_16.01.08.01.01.01,Stoornis in het gebruik van een amfetamineachtig middel: licht
+D5_16.01.08.01.01.02,"Stoornis in het gebruik van een amfetamineachtig middel: matig, ernstig"
+D5_16.01.08.01.02,Stoornis in het gebruik van coca�ne
+D5_16.01.08.01.02.01,Stoornis in het gebruik van coca�ne: licht
+D5_16.01.08.01.02.02,"Stoornis in het gebruik van coca�ne: matig, ernstig"
+D5_16.01.08.01.03,Stoornis in het gebruik van een ander of ongespecificeerd stimulantium
+D5_16.01.08.01.03.01,Stoornis in het gebruik van een ander of ongespecificeerd stimulantium: licht
+D5_16.01.08.01.03.02,"Stoornis in het gebruik van een ander of ongespecificeerd stimulantium: matig, ernstig"
+D5_16.01.08.02,Intoxicatie door een stimulantium
+D5_16.01.08.02.01,Intoxicatie door een amfetamine of een ander stimulantium
+D5_16.01.08.02.01.01,Intoxicatie door een amfetamine of een ander stimulantium: met perceptiestoornissen
+D5_16.01.08.02.02,Intoxicatie door coca�ne
+D5_16.01.08.03,Onttrekkingssyndroom van een stimulantium
+D5_16.01.08.03.01,Onttrekkingssyndroom van een amfetamineachtig middel
+D5_16.01.08.03.02,Onttrekkingssyndroom van coca�ne
+D5_16.01.08.03.03,Onttrekkingssyndroom van een ander of ongespecificeerd stimulantium
+D5_16.01.08.04,Ongespecificeerde stimulantiumgerelateerde stoornis
+D5_16.01.09,Tabak gerelateerde stoornissen
+D5_16.01.09.01,Stoornis in tabaksgebruik
+D5_16.01.09.01.01,Stoornis in tabaksgebruik: licht
+D5_16.01.09.01.02,"Stoornis in tabaksgebruik: matig, ernstig"
+D5_16.01.09.02,Tabaksonttrekkingssyndroom
+D5_16.01.09.03,Ongespecificeerde tabaksgerelateerde stoornis
+D5_16.01.10,Stoornissen gerelateerd aan een ander (of onbekend) middel
+D5_16.01.10.01,Stoornis in het gebruik van een ander (of onbekend) middel
+D5_16.01.10.01.01,Stoornis in het gebruik van een ander (of onbekend) middel: licht
+D5_16.01.10.01.02,"Stoornis in het gebruik van een ander (of onbekend) middel: matig, ernstig"
+D5_16.01.10.02,Intoxicatie door een ander (of onbekend) middel
+D5_16.01.10.03,Onttrekkingssyndroom van een ander (of onbekend) middel
+D5_16.01.10.04,Ongespecificeerde stoornis gerelateerd aan een ander (of onbekend) middel
+D5_16.02,Niet-middelgerelateerde stoornissen
+D5_16.02.01,Gokstoornis
+D5_17,Neurocognitieve stoornissen
+D5_17.01,Delirium
+D5_17.01.01,Delirium door intoxicatie door een middel
+D5_17.01.01.01,Delirium door intoxicatie door alcohol
+D5_17.01.01.02,Delirium door intoxicatie door stimulantia
+D5_17.01.01.03,Delirium door intoxicatie door cannabis
+D5_17.01.01.04,Delirium door intoxicatie door coca�ne
+D5_17.01.01.05,Delirium door intoxicatie door andere hallucinogenen
+D5_17.01.01.06,Delirium door intoxicatie door inhalantia
+D5_17.01.01.07,Delirium door intoxicatie door opio�den
+D5_17.01.01.08,Delirium door intoxicatie door fencyclidine
+D5_17.01.01.09,Delirium door intoxicatie door hypnotica of anxiolytica
+D5_17.01.01.10,Delirium door intoxicatie door ander (of onbekend) middel
+D5_17.01.02,Delirium door onttrekking van een middel
+D5_17.01.02.01,Delirium door onttrekking van alcohol
+D5_17.01.02.02,Delirium door onttrekking van opio�den
+D5_17.01.02.03,Delirium door onttrekking van hypnotica of anxiolytica
+D5_17.01.02.04,Delirium door onttrekking van een ander (of onbekend) middel
+D5_17.01.03,Delirium door medicatie
+D5_17.01.04,Delirium door een somatische aandoening
+D5_17.01.05,Delirium door multipele oorzaken
+D5_17.01.06,Andere delirium
+D5_17.01.06.01,Ander gespecificeerde delirium
+D5_17.01.06.02,Ongespecificeerde delirium
+D5_17.02,Uitgebreide of beperkte neurocognitieve stoornissen
+D5_17.02.01,Uitgebreide neurocognitieve stoornis door de ziekte van Alzheimer
+D5_17.02.01.01,Uitgebreide neurocognitieve stoornis door de ziekte van Alzheimer: met gedragsstoornissen
+D5_17.02.01.02,Uitgebreide neurocognitieve stoornis door de ziekte van Alzheimer: zonder gedragsstoornissen
+D5_17.02.02,Beperkte neurocognitieve stoornis door de ziekte van Alzheimer
+D5_17.02.02.01,Beperkte neurocognitieve stoornis door de ziekte van Alzheimer: met gedragsstoornissen
+D5_17.02.02.02,Beperkte neurocognitieve stoornis door de ziekte van Alzheimer: zonder gedragsstoornissen
+D5_17.03,Uitgebreide of beperkte frontotemporale neurocognitieve stoornis
+D5_17.03.01,Uitgebreide frontotemporale neurocognitieve stoornis
+D5_17.03.01.01,Uitgebreide neurocognitieve stoornis door frontotemporale lobaire degeneratie: zonder gedragsstoornissen
+D5_17.03.01.02,Uitgebreide neurocognitieve stoornis door frontotemporale lobaire degeneratie: met gedragsstoornissen
+D5_17.03.02,Beperkte frontotemporale neurocognitieve stoornis
+D5_17.03.02.01,Beperkte neurocognitieve stoornis door frontotemporale lobaire degeneratie: met gedragsstoornissen
+D5_17.03.02.02,Beperkte neurocognitieve stoornis door frontotemporale lobaire degeneratie: zonder gedragsstoornissen
+D5_17.04,Uitgebreide of beperkte neurocognitieve stoornis met lewylichaampjes
+D5_17.04.01,Uitgebreide neurocognitieve stoornis met lewylichaampjes
+D5_17.04.01.01,Uitgebreide neurocognitieve stoornis met lewylichaampjes: met gedragsstoornissen
+D5_17.04.01.02,Uitgebreide neurocognitieve stoornis met lewylichaampjes: zonder gedragsstoornissen
+D5_17.04.02,Beperkte neurocognitieve stoornis met lewylichaampjes
+D5_17.04.02.01,Beperkte neurocognitieve stoornis met lewylichaampjes: met gedragsstoornissen
+D5_17.04.02.02,Beperkte neurocognitieve stoornis met lewylichaampjes: zonder gedragsstoornissen
+D5_17.05,Uitgebreide of beperkte vasculaire neurocognitieve stoornis
+D5_17.05.01,Uitgebreide vasculaire neurocognitieve stoornis
+D5_17.05.01.01,Uitgebreide vasculaire neurocognitieve stoornis: met gedragsstoornissen
+D5_17.05.01.02,Uitgebreide vasculaire neurocognitieve stoornis: zonder gedragsstoornissen
+D5_17.05.02,Beperkte vasculaire neurocognitieve stoornis
+D5_17.05.02.01,Beperkte vasculaire neurocognitieve stoornis: met gedragsstoornissen
+D5_17.05.02.02,Beperkte vasculaire neurocognitieve stoornis: zonder gedragsstoornissen
+D5_17.06,Uitgebreide of beperkte neurocognitieve stoornis door traumatisch hersenletsel
+D5_17.06.01,Uitgebreide neurocognitieve stoornis door traumatisch hersenletsel
+D5_17.06.01.01,Uitgebreide neurocognitieve stoornis door traumatisch hersenletsel: met gedragsstoornissen
+D5_17.06.01.02,Uitgebreide neurocognitieve stoornis door traumatisch hersenletsel: zonder gedragsstoornissen
+D5_17.06.02,Uitgebreide of beperkte neurocognitieve stoornis door traumatisch hersenletsel
+D5_17.06.02.01,Beperkte neurocognitieve stoornis door traumatisch hersenletsel: met gedragsstoornissen
+D5_17.06.02.02,Beperkte neurocognitieve stoornis door traumatisch hersenletsel: zonder gedragsstoornissen
+D5_17.07,Uitgebreide of beperkte neurocognitieve stoornis door een middel / medicatie
+D5_17.07.01,Uitgebreide of beperkte neurocognitieve stoornis door alcohol
+D5_17.07.01.01,Uitgebreide neurocognitieve stoornis door alcohol
+D5_17.07.01.01.01,Uitgebreide neurocognitieve stoornis door alcohol: niet-amnestisch-confabulerend type
+D5_17.07.01.01.02,Uitgebreide neurocognitieve stoornis door alcohol: amnestisch-confabulerend type
+D5_17.07.01.02,Beperkte neurocognitieve stoornis door alcohol
+D5_17.07.01.02.01,Beperkte  neurocognitieve stoornis door alcohol
+D5_17.07.02,Uitgebreide of beperkte neurocognitieve stoornis door inhalantia
+D5_17.07.02.01,Uitgebreide neurocognitieve stoornis door inhalantia
+D5_17.07.02.01.01,Uitgebreide neurocognitieve stoornis door inhalantia
+D5_17.07.02.02,Beperkte neurocognitieve stoornis door inhalantia
+D5_17.07.02.02.01,Beperkte neurocognitieve stoornis door inhalantia
+D5_17.07.03,Uitgebreide of beperkte neurocognitieve stoornis door hypnotica of anxiolytica
+D5_17.07.03.01,Uitgebreide neurocognitieve stoornis door hypnotica of anxiolytica
+D5_17.07.03.01.01,Uitgebreide neurocognitieve stoornis door hypnotica of anxiolytica
+D5_17.07.03.02,Beperkte neurocognitieve stoornis door hypnotica of anxiolytica
+D5_17.07.03.02.01,Beperkte neurocognitieve stoornis door hypnotica of anxiolytica
+D5_17.07.04,Uitgebreide of beperkte neurocognitieve stoornis door een ander (of onbekend) middel
+D5_17.07.04.01,Uitgebreide neurocognitieve stoornis door een ander (of onbekend) middel
+D5_17.07.04.01.01,Uitgebreide neurocognitieve stoornis door een ander (of onbekend) middel
+D5_17.07.04.02,Beperkte neurocognitieve stoornis door een ander (of onbekend) middel
+D5_17.07.04.02.01,Beperkte neurocognitieve stoornis door een ander (of onbekend) middel
+D5_17.07.05,Uitgebreide of beperkte neurocognitieve stoornis door hiv-infectie
+D5_17.07.05.01,Uitgebreide neurocognitieve stoornis door hiv-infectie
+D5_17.07.05.01.01,Uitgebreide neurocognitieve stoornis door hiv-infectie: met gedragsstoornissen
+D5_17.07.05.01.02,Uitgebreide neurocognitieve stoornis door hiv-infectie: zonder gedragsstoornissen
+D5_17.07.05.02,Beperkte neurocognitieve stoornis door hiv-infectie
+D5_17.07.05.02.01,Beperkte neurocognitieve stoornis door hiv-infectie: met gedragsstoornissen
+D5_17.07.05.02.02,Beperkte neurocognitieve stoornis door hiv-infectie: zonder gedragsstoornissen
+D5_17.07.06,Uitgebreide of beperkte neurocognitieve stoornis door prionziekte
+D5_17.07.06.01,Uitgebreide neurocognitieve stoornis door prionziekte
+D5_17.07.06.01.01,Uitgebreide neurocognitieve stoornis door prionziekte: met gedragsstoornissen
+D5_17.07.06.01.02,Uitgebreide neurocognitieve stoornis door prionziekte: zonder gedragsstoornissen
+D5_17.07.06.02,Beperkte neurocognitieve stoornis door prionziekte
+D5_17.07.06.02.01,Beperkte neurocognitieve stoornis door prionziekte: met gedragsstoornissen
+D5_17.07.06.02.02,Beperkte neurocognitieve stoornis door prionziekte: zonder gedragsstoornissen
+D5_17.07.07,Uitgebreide of beperkte neurocognitieve stoornis door de ziekte van Parkinson
+D5_17.07.07.01,Uitgebreide neurocognitieve stoornis door de ziekte van Parkinson
+D5_17.07.07.01.01,Uitgebreide neurocognitieve stoornis mogelijk of waarschijnlijk door de ziekte van Parkinson: met gedragsstoornissen
+D5_17.07.07.01.02,Uitgebreide neurocognitieve stoornis mogelijk of waarschijnlijk door de ziekte van Parkinson: zonder gedragsstoornissen
+D5_17.07.07.02,Beperkte neurocognitieve stoornis door de ziekte van Parkinson
+D5_17.07.07.02.01,Beperkte neurocognitieve stoornis door de ziekte van Parkinson: met gedragsstoornissen
+D5_17.07.07.02.02,Beperkte neurocognitieve stoornis door de ziekte van Parkinson: zonder gedragsstoornissen
+D5_17.07.08,Uitgebreide of beperkte neurocognitieve stoornis door de ziekte van Huntington
+D5_17.07.08.01,Uitgebreide neurocognitieve stoornis door de ziekte van Huntington
+D5_17.07.08.01.01,Uitgebreide neurocognitieve stoornis door de ziekte van Huntington: met gedragsstoornissen
+D5_17.07.08.01.02,Uitgebreide neurocognitieve stoornis door de ziekte van Huntington: zonder gedragsstoornissen
+D5_17.07.08.02,Beperkte neurocognitieve stoornis door de ziekte van Huntington
+D5_17.07.08.02.01,Beperkte neurocognitieve stoornis door de ziekte van Huntington: met gedragsstoornissen
+D5_17.07.08.02.02,Beperkte neurocognitieve stoornis door de ziekte van Huntington: zonder gedragsstoornissen
+D5_17.07.09,Uitgebreide of beperkte neurocognitieve stoornis door de ziekte een andere somatische aandoening
+D5_17.07.09.01,Uitgebreide neurocognitieve stoornis door de ziekte een andere somatische aandoening
+D5_17.07.09.01.01,Uitgebreide neurocognitieve stoornis door een andere somatische aandoening: met gedragsstoornissen
+D5_17.07.09.01.02,Uitgebreide neurocognitieve stoornis door een andere somatische aandoening: zonder gedragsstoornissen
+D5_17.07.09.02,Beperkte neurocognitieve stoornis door de ziekte een andere somatische aandoening
+D5_17.07.09.02.01,Beperkte neurocognitieve stoornis door een andere somatische aandoening: met gedragsstoornissen
+D5_17.07.09.02.02,Beperkte neurocognitieve stoornis door een andere somatische aandoening: zonder gedragsstoornissen
+D5_17.07.10,Uitgebreide of beperkte neurocognitieve stoornis door multipele oorzaken
+D5_17.07.10.01,Uitgebreide neurocognitieve stoornis door multipele oorzaken
+D5_17.07.10.01.01,Uitgebreide neurocognitieve stoornis door multipele oorzaken: met gedragsstoornissen
+D5_17.07.10.01.02,Uitgebreide neurocognitieve stoornis door multipele oorzaken: zonder gedragsstoornissen
+D5_17.07.10.02,Beperkte neurocognitieve stoornis door multipele oorzaken
+D5_17.07.10.02.01,Beperkte neurocognitieve stoornis door multipele oorzaken: met gedragsstoornissen
+D5_17.07.10.02.02,Beperkte neurocognitieve stoornis door multipele oorzaken: zonder gedragsstoornissen
+D5_17.07.11,Ongespecificeerde neurocognitieve stoornis
+D5_18,Persoonlijkheidsstoornissen
+D5_18.01,Cluster A-persoonlijkheidsstoornissen
+D5_18.01.01,Parano�de-persoonlijkheidsstoornis
+D5_18.01.02,Schizo�de-persoonlijkheidsstoornis
+D5_18.01.03,Schizotypische-(persoonlijkheids)stoornis
+D5_18.02,Cluster B-persoonlijkheidsstoornissen
+D5_18.02.01,Antisociale persoonlijkheidsstoornis
+D5_18.02.02,Borderline persoonlijkheidsstoornis
+D5_18.02.03,Histrionische persoonlijkheidsstoornis
+D5_18.02.04,Narcistische persoonlijkheidsstoornis
+D5_18.03,Cluster C-persoonlijkheidsstoornissen
+D5_18.03.01,Vermijdende persoonlijkheidsstoornis
+D5_18.03.02,Afhankelijke persoonlijkheidsstoornis
+D5_18.03.03,Dwangmatige persoonlijkheidsstoornis
+D5_18.04,Andere persoonlijkheidsstoornissen
+D5_18.04.01,Persoonlijkheidsverandering door een somatische aandoening
+D5_18.04.01.01,Persoonlijkheidsverandering door een somatische aandoening
+D5_18.04.01.02,Persoonlijkheidsverandering door een somatische aandoening: labiele type
+D5_18.04.01.03,Persoonlijkheidsverandering door een somatische aandoening: ontremde type
+D5_18.04.01.04,Persoonlijkheidsverandering door een somatische aandoening: agressieve type
+D5_18.04.01.05,Persoonlijkheidsverandering door een somatische aandoening: apatische type
+D5_18.04.01.06,Persoonlijkheidsverandering door een somatische aandoening: parano�de type
+D5_18.04.01.07,Persoonlijkheidsverandering door een somatische aandoening: andere type
+D5_18.04.01.08,Persoonlijkheidsverandering door een somatische aandoening: gecombineerde type
+D5_18.04.01.09,Persoonlijkheidsverandering door een somatische aandoening: ongespecificeerde type
+D5_18.04.01.10,Andere persoonlijkheidsstoornissen
+D5_18.04.01.10.01,Andere gespecificeerde persoonlijkheidsstoornis
+D5_18.04.01.10.02,Ongespecificeerde persoonlijkheidsstoornis
+D5_19,Parafiele stoornissen
+D5_19.01,Voyeurismestoornis
+D5_19.02,Exhibitionismestoornis
+D5_19.03,Frotteurismestoornis
+D5_19.04,Seksueel-masochismestoornis
+D5_19.05,Seksueel-sadismestoornis
+D5_19.06,Pedofiele stoornis
+D5_19.06.01,Pedofiele stoornis: exclusieve type
+D5_19.06.01.01,Pedofiele stoornis: exclusieve type - Seksueel aangetrokken tot jongens
+D5_19.06.01.01.01,Pedofiele stoornis: exclusieve type - seksueel aangetrokken tot jongens - beperkt tot incest
+D5_19.06.01.02,Pedofiele stoornis: exclusieve type - Seksueel aangetrokken tot meisjes
+D5_19.06.01.02.01,Pedofiele stoornis: exclusieve type - Seksueel aangetrokken tot meisjes - Beperkt tot incest
+D5_19.06.01.03,Pedofiele stoornis: exclusieve type - Seksueel aangetrokken tot beide seksen
+D5_19.06.01.03.01,Pedofiele stoornis: exclusieve type - Seksueel aangetrokken tot beide seksen - Beperkt tot incest
+D5_19.06.02,Pedofiele stoornis: niet-exclusieve type
+D5_19.06.02.01,Pedofiele stoornis: niet-exclusieve type - Seksueel aangetrokken tot jongens
+D5_19.06.02.01.01,Pedofiele stoornis: niet-exclusieve type - Seksueel aangetrokken tot jongens -Beperkt tot incest
+D5_19.06.02.02,Pedofiele stoornis: niet-exclusieve type - Seksueel aangetrokken tot meisjes
+D5_19.06.02.02.01,Pedofiele stoornis: niet-exclusieve type - Seksueel aangetrokken tot meisjes - Beperkt tot incest
+D5_19.06.02.03,Pedofiele stoornis: niet-exclusieve type - Seksueel aangetrokken tot beide seksen
+D5_19.06.02.03.01,Pedofiele stoornis: niet-exclusieve type - Seksueel aangetrokken tot beide seksen - Beperkt tot incest
+D5_19.07,Fetisjismestoornis
+D5_19.07.01,Transvestiestoornis
+D5_19.08,Andere parafiele stoornissen
+D5_19.08.01,Andere gespecificeerde parafiele stoornis
+D5_19.08.02,Ongespecificeerde parafiele stoornis
+D5_2,Schizofreniespectrum- en andere psychotische stoornissen
+D5_2.01,Schizotypische-(persoonlijkheids)stoornis
+D5_2.02,Waanstoornis
+D5_2.02.01,Waanstoornis: eromane type
+D5_2.02.02,Waanstoornis: grootheidstype
+D5_2.02.03,Waanstoornis: jaloerse type
+D5_2.02.04,Waanstoornis: achtervolgingstype
+D5_2.02.05,Waanstoornis: somatische type
+D5_2.02.06,Waanstoornis: gemengde type
+D5_2.02.07,Waanstoornis: ongespecificeerde type
+D5_2.03,Kortdurende psychotische stoornis
+D5_2.03.01,Kortdurende psychotische stoornis: met duidelijke stressor(en)
+D5_2.03.02,Kortdurende psychotische stoornis: zonder duidelijke stressor(en)
+D5_2.03.03,Kortdurende psychotische stoornis: met begin peri partum
+D5_2.04,Schizofreniforme stoornis
+D5_2.04.01,Schizofreniforme stoornis: met goede prognostische kenmerken
+D5_2.04.02,Schizofreniforme stoornis: zonder goede prognostische kenmerken
+D5_2.05,Schizoaffectieve stoornis
+D5_2.05.01,Schizoaffectieve stoornis: bipolaire type
+D5_2.05.02,Schizoaffectieve stoornis: depressieve type
+D5_2.06,Psychotische stoornis door een middel
+D5_2.06.01,Psychotische stoornis door alcohol
+D5_2.06.02,Psychotische stoornis door cannabis
+D5_2.06.03,Psychotische stoornis door fencyclidine
+D5_2.06.04,Psychotische stoornis door andere hallucinogenen
+D5_2.06.05,Psychotische stoornis door inhalantia
+D5_2.06.06,Psychotische stoornis door hypnotica of anxiolytica
+D5_2.06.07,Psychotische stoornis door amfetamine (of andere stimulantia)
+D5_2.06.08,Psychotische stoornis door coca�ne
+D5_2.06.09,Psychotische stoornis door een ander (of onbekend) middel
+D5_2.07,Psychotische stoornis door een somatische aandoening
+D5_2.07.01,Psychotische stoornis door een somatische aandoening: met wanen
+D5_2.07.02,Psychotische stoornis door een somatische aandoening: met hallucinaties
+D5_2.08,Katatonie
+D5_2.08.01,Katatonie bij een andere psychische stoornis (katatonie als specificatie)
+D5_2.08.02,Katatone stoornis door een somatische aandoening
+D5_2.08.03,Ongespecificeerde katatonie
+D5_2.09,Andere schizofreniespectrum- of andere psychotische stoornissen
+D5_2.09.01,Andere gespecificeerde schizofreniespectrum- of andere psychotische stoornis
+D5_2.09.02,Ongespecificeerde schizofreniespectrum- of andere psychotische stoornis
+D5_2.10,Schizofrenie
+D5_20,Overige psychische stoornissen
+D5_20.01,Andere psychische stoornissen door een somatische aandoening
+D5_20.01.01,Andere gespecificeerde psychische stoornis door een somatische aandoening
+D5_20.01.02,Ongespecificeerde psychische stoornis door een somatische aandoening
+D5_20.02,Andere psychische stoornissen
+D5_20.02.01,Andere gespecificeerde psychische stoornis
+D5_20.02.02,Ongespecificeerde psychische stoornis
+D5_21,Bewegingsstoornissen en andere bijwerkingen van medicatie
+D5_21.01,Parkinsonisme door neuroleptica of andere medicatie
+D5_21.02,Maligne neurolepticasyndroom
+D5_21.03,Acute dystonie door medicatie
+D5_21.04,Acute acathisie door medicatie
+D5_21.05,Tardieve dyskinesie
+D5_21.06,Tardieve dystonie
+D5_21.07,Tardieve acathisie
+D5_21.08,Houdingstremor door medicatie
+D5_21.09,Andere bewegingsstoornis door medicatie
+D5_21.10,Antidepressiva-discontinueringssyndroom
+D5_21.11,Andere bijwerkingen van medicatie
+D5_22,Andere problemen die een reden van zorg kunnen zijn
+D5_22.01,Relatieproblemen
+D5_22.01.01,Opvoedingsproblemen
+D5_22.01.01.01,Ouder-kindrelatieprobleem
+D5_22.01.01.02,Relatieproblemen tussen brussen (siblings)
+D5_22.01.01.03,Opvoedingsproblemen
+D5_22.01.01.03.01,Opvoeding in afwezigheid van ouders
+D5_22.01.01.03.02,Negatieve invloed van ouderlijke relatieproblemen op een kind
+D5_22.01.02,Andere problemen verband houdend met de naaste kring van verwanten
+D5_22.01.02.01,Partner-relatieprobleem
+D5_22.01.02.02,Uiteenvallen van gezin door scheiding of echtscheiding
+D5_22.01.02.03,Hoog niveau van gevoelsuitingen binnen een gezin
+D5_22.01.02.04,Ongecompliceerde rouw
+D5_22.02,Misbruik en verwaarlozing
+D5_22.02.01,Problemen door mishandeling en verwaarlozing van een kind
+D5_22.02.01.01,Lichamelijke mishandeling van een kind
+D5_22.02.01.02,"Consult voor slachtoffer van mishandeling, kind"
+D5_22.02.01.03,Persoonlijke anamnese met lichamelijke mishandeling als kind ( in het verleden)
+D5_22.02.01.04,Consult voor pleger van mishandeling van eigen kind
+D5_22.02.01.05,Consult voor pleger van mishandeling van een kind waarvan de betrokkene niet de ouder is
+D5_22.02.01.06,Seksueel misbruik van een kind
+D5_22.02.01.07,"Consult voor slachtoffer van seksueel misbruik, kind"
+D5_22.02.01.08,Persoonlijke anamnese met seksueel misbruik als kind ( in het verleden)
+D5_22.02.01.09,Consult voor pleger van seksueel misbruik van eigen kind
+D5_22.02.01.10,Consult voor pleger van seksueel misbruik van een kind waarvan de betrokkene niet de ouder is
+D5_22.02.01.11,Verwaarlozing van een kind
+D5_22.02.01.12,"Consult voor slachtoffer van verwaarlozing, kind"
+D5_22.02.01.13,Persoonlijke anamnese met verwaarlozing als kind ( in het verleden)
+D5_22.02.01.14,Consult voor pleger van verwaarlozing van eigen kind
+D5_22.02.01.15,Consult voor pleger van verwaarlozing ven een kind waarvan de betrokkene niet de ouder is
+D5_22.02.01.16,Psychische mishandeling van een kind
+D5_22.02.01.17,"Consult voor slachtoffer van psychische mishandeling, kind"
+D5_22.02.01.18,Persoonlijke anamnese met psychische mishandeling als kind (in het verleden)
+D5_22.02.01.19,Consult voor pleger van psychische mishandeling van eigen kind
+D5_22.02.01.20,Consult voor pleger van psychische mishandeling van een kind waarvan de betrokkene niet de ouder is.
+D5_22.02.02,Problemen door mishandeling en verwaarlozing van een volwassene
+D5_22.02.02.01,Lichamelijk geweld door een levenspartner
+D5_22.02.02.02,Consult voor slachtoffer van lichamelijk geweld door een levenspartner
+D5_22.02.02.03,Persoonlijke anamnese met lichamelijk geweld door een levenspartner (in het verleden)
+D5_22.02.02.04,Consult voor pleger van lichamelijk geweld door een levenspartner
+D5_22.02.02.05,Seksueel geweld door een levenspartner
+D5_22.02.02.06,Consult voor slachtoffer van seksueel geweld door een levenspartner
+D5_22.02.02.07,Persoonlijke anamnese met seksueel geweld door een levenspartner (in het verleden)
+D5_22.02.02.08,Consult voor pleger van seksueel geweld door een levenspartner
+D5_22.02.02.09,Verwaarlozing door een levenspartner
+D5_22.02.02.10,Consult voor slachtoffer van verwaarlozing door een levenspartner
+D5_22.02.02.11,Persoonlijke anamnese met verwaarlozing door een levenspartner (in het verleden)
+D5_22.02.02.12,Consult voor pleger van verwaarlozing door een levenspartner
+D5_22.02.02.13,Psychische mishandeling door een levenspartner
+D5_22.02.02.14,Consult voor slachtoffer van psychische mishandeling door een levenspartner
+D5_22.02.02.15,Persoonlijke anamnese met psychische mishandeling door een levenspartner (in het verleden)
+D5_22.02.02.16,Consult voor pleger van psychische mishandeling door een levenspartner
+D5_22.02.02.17,Lichamelijke mishandeling van een volwassene door iemand die niet de levenspartner is
+D5_22.02.02.18,Seksueel misbruik van een volwassene door iemand die niet de levenspartner is
+D5_22.02.02.19,Psychische mishandeling van een volwassene door iemand die niet de levenspartner is
+D5_22.02.02.20,Consult voor slachtoffer van mishandeling van een volwassene door iemand die niet de levenspartner is
+D5_22.02.02.21,Consult voor pleger van mishandeling van een volwassene door iemand die niet de levenspartner is
+D5_22.03,Problemen met onderwijs en arbeid
+D5_22.03.01,Problemen met onderwijs
+D5_22.03.01.01,Leer- of onderwijsprobleem
+D5_22.03.01.02,Leer- of onderwijsprobleem (psychosociale en omgevingsproblemen)
+D5_22.03.02,Problemen met arbeid
+D5_22.03.02.01,Probleem verband houdend met actuele militaire uitzending
+D5_22.03.02.02,Probleem verband houdend met actuele militaire uitzending (psychosociale en omgevingsproblemen)
+D5_22.03.02.03,Ander probleem verband houdend met werk of werkeloosheid
+D5_22.03.02.04,Ander probleem verband houdend met werk of werkeloosheid (psychosociale en omgevingsproblemen)
+D5_22.04,Huisvestings- en economische problemen
+D5_22.04.01,Huisvestingsproblemen
+D5_22.04.01.01,Dakloosheid
+D5_22.04.01.02,Inadequate behuizing
+D5_22.04.01.03,"Onenigheid met buur, huurder of verhuurder"
+D5_22.04.01.04,Problemen verband houdend met wonen in een instelling
+D5_22.04.02,Economische problemen
+D5_22.04.02.01,Ontbreken van adequaat voedsel of veilig drinkwater
+D5_22.04.02.02,Extreme armoede
+D5_22.04.02.03,Laag inkomen
+D5_22.04.02.04,Ontoereikende sociale verzekering of welzijnsvoorzieningen
+D5_22.04.02.05,Ongespecificeerde huisvestings- of economisch probleem
+D5_22.05,Andere problemen verband houdend met de sociale omgeving
+D5_22.05.01,Levensfaseprobleem
+D5_22.05.02,Probleem verband houdend met alleen wonen
+D5_22.05.03,Acculturatieprobleem
+D5_22.05.04,Sociale uitsluiting of uitstoting
+D5_22.05.05,Doelwit van (vermeende) discriminatie of vervolging
+D5_22.05.06,Ongespecificeerd probleemverband houdend met de sociale omgeving
+D5_22.06,Andere problemen die verband houden met misdaad of aanraking met justitie
+D5_22.06.01,Slachtoffer van misdaad
+D5_22.06.02,Problemen verband houdend met justiti�le maatregelen
+D5_22.07,Ander consult voor voorlichting en medisch advies
+D5_22.07.01,Seksuele voorlichting en advies
+D5_22.07.02,Andere voorlichting of advies
+D5_22.08,"Problemen die verband houden met andere psychosociale, persoonlijke en omgevingsomstandigheden"
+D5_22.08.01,Religieus of spiritueel probleem
+D5_22.08.02,Problemen verband houdend met ongewenste zwangerschap
+D5_22.08.03,Problemen verband houdend met multipariteit
+D5_22.08.04,"Onenigheid met medewerker van sociale voorziening of reclassering, casemanager of maatschappelijk werkende"
+D5_22.08.05,Slachtoffer van terrorisme of marteling
+D5_22.08.06,"Blootstelling aan ramp, oorlog of andere vijandigheden"
+D5_22.08.07,Andere problemen verband houdend met psychosociale omstandigheden
+D5_22.08.08,Ongespecificeerd probleem verband houdend met niet gespecificeerde psychosociale omstandigheden
+D5_22.09,Andere omstandigheden in de persoonlijke voorgeschiedenis
+D5_22.09.01,Andere voorgeschiedenis van psychotrauma
+D5_22.09.02,Voorgeschiedenis van zelfbeschadiging
+D5_22.09.03,Voorgeschiedenis van militaire uitzending
+D5_22.09.04,Andere persoonlijke risicofactoren
+D5_22.09.05,Probleem verband houdend met levensstijl
+D5_22.09.06,Antisociaal gedrag van volwassene
+D5_22.09.07,Antisociaal gedrag van kind of adolescent
+D5_22.10,Problemen verband houdend met de toegankelijkheid van medische en andere vormen van zorg
+D5_22.10.01,Gezondheidsvoorzieningen niet beschikbaar of niet toegankelijk
+D5_22.10.02,Andere hulpverlenende instanties niet beschikbaar of niet toegankelijk
+D5_22.11,Niet opvolgen van medische behandeling
+D5_22.11.01,Niet opvolgen van medische behandeling
+D5_22.11.02,Overgewicht of obesitas
+D5_22.11.03,Simuleren
+D5_22.11.04,Rondzwerven samenhangend met een psychische stoornis
+D5_22.11.05,Zwakbegaafdheid
+D5_3,Bipolaire-stemmingsstoornissen
+D5_3.01,Bipolaire-I-stoornis
+D5_3.01.01,Bipolaire-I-stoornis: actuele of meest recente episode manisch
+D5_3.01.01.01,Bipolaire-I-stoornis: actuele of meest recente episode manisch - licht
+D5_3.01.01.02,Bipolaire-I-stoornis: actuele of meest recente episode manisch - matig
+D5_3.01.01.03,Bipolaire-I-stoornis: actuele of meest recente episode manisch - ernstig
+D5_3.01.01.04,Bipolaire-I-stoornis: actuele of meest recente episode manisch - met psychotische kenmerken
+D5_3.01.01.05,Bipolaire-I-stoornis: actuele of meest recente episode manisch - Gedeeltelijk in remissie
+D5_3.01.01.06,Bipolaire-I-stoornis: actuele of meest recente episode manisch - Volledig in remissie
+D5_3.01.01.07,Bipolaire-I-stoornis: actuele of meest recente episode manisch - Ongespecificeerd
+D5_3.01.02,Bipolaire-I-stoornis: actuele of meest recente episode hypomanisch
+D5_3.01.02.01,Bipolaire-I-stoornis: actuele of meest recente episode hypomanisch - Gedeeltelijk in remissie
+D5_3.01.02.02,Bipolaire-I-stoornis: actuele of meest recente episode hypomanisch - Volledig in remissie
+D5_3.01.02.03,Bipolaire-I-stoornis: actuele of meest recente episode hypomanisch - Ongespecificeerd
+D5_3.01.03,Bipolaire-I-stoornis: actuele of meest recente episode depressief
+D5_3.01.03.01,Bipolaire-I-stoornis: actuele of meest recente episode depressief - licht
+D5_3.01.03.02,Bipolaire-I-stoornis: actuele of meest recente episode depressief - matig
+D5_3.01.03.03,Bipolaire-I-stoornis: actuele of meest recente episode depressief - ernstig
+D5_3.01.03.04,Bipolaire-I-stoornis: actuele of meest recente episode depressief - Met psychotische kenmerken
+D5_3.01.03.05,Bipolaire-I-stoornis: actuele of meest recente episode depressief - Gedeeltelijk in remissie
+D5_3.01.03.06,Bipolaire-I-stoornis: actuele of meest recente episode depressief - Volledig in remissie
+D5_3.01.03.07,Bipolaire-I-stoornis: actuele of meest recente episode depressief - Ongespecificeerd
+D5_3.01.03.08,Bipolaire-I-stoornis: actuele of meest recente episode Ongespecificeerd
+D5_3.02,Bipolaire II stoornis
+D5_3.02.01,Bipolaire II stoornis: hypomanisch
+D5_3.02.02,Bipolaire II stoornis: depressief
+D5_3.03,Cyclothyme stoornis
+D5_3.04,Bipolaire-stemmingsstoornis door een middel
+D5_3.04.01,Bipolaire-stemmingsstoornis door alcohol
+D5_3.04.01.01,Bipolaire-stemmingsstoornis door alcohol: met begin tijdens intoxicatie
+D5_3.04.01.02,Bipolaire-stemmingsstoornis door alcohol: met begin tijdens onttrekking
+D5_3.04.02,Bipolaire-stemmingsstoornis door fencyclidine
+D5_3.04.02.01,Bipolaire-stemmingsstoornis door fencyclidine: met begin tijdens intoxicatie
+D5_3.04.03,Bipolaire-stemmingsstoornis door andere hallucinogenen
+D5_3.04.03.01,Bipolaire-stemmingsstoornis door andere hallucinogenen: met begin tijdens intoxicatie
+D5_3.04.04,Bipolaire-stemmingsstoornis door hypnotica of anxiolytica
+D5_3.04.04.01,Bipolaire-stemmingsstoornis door hypnotica of anxiolytica: met begin tijdens intoxicatie
+D5_3.04.04.02,Bipolaire-stemmingsstoornis door hypnotica of anxiolytica: met begin tijdens onttrekking
+D5_3.04.05,Bipolaire-stemmingsstoornis door amfetamine (of andere stimulantia)
+D5_3.04.05.01,Bipolaire-stemmingsstoornis door amfetamine (of andere stimulantia): met begin tijdens intoxicatie
+D5_3.04.05.02,Bipolaire-stemmingsstoornis door amfetamine (of andere stimulantia): met begin tijdens onttrekking
+D5_3.04.06,Bipolaire-stemmingsstoornis door coca�ne
+D5_3.04.06.01,Bipolaire-stemmingsstoornis door coca�ne: met begin tijdens intoxicatie
+D5_3.04.06.02,Bipolaire-stemmingsstoornis door coca�ne: met begin tijdens onttrekking
+D5_3.04.07,Bipolaire-stemmingsstoornis door een ander (of onbekend middel)
+D5_3.04.07.01,Bipolaire-stemmingsstoornis door een ander (of onbekend middel): met begin tijdens intoxicatie
+D5_3.04.07.02,Bipolaire-stemmingsstoornis door een ander (of onbekend middel): met begin tijdens onttrekking
+D5_3.05,Bipolaire-stemminsstoornis door een somatische aandoening
+D5_3.05.01,Bipolaire-stemminsstoornis door een somatische aandoening: met manische kenmerken
+D5_3.05.02,Bipolaire-stemminsstoornis door een somatische aandoening: met maniforme of hypomaniforme episode
+D5_3.05.03,Bipolaire-stemminsstoornis door een somatische aandoening: met gemengde kenmerken
+D5_3.06,Andere bipolaire stemmingsstoornissen
+D5_3.06.01,Andere gespecificeerde bipolaire-stemmingsstoornis
+D5_3.06.02,Ongespecificeerde bipolaire-stemmingsstoornis
+D5_4,Depressieve-stemmingsstoornissen
+D5_4.01,Disruptieve stemmingsdisregulatiestoornis
+D5_4.02,Depressieve stoornis
+D5_4.02.01,Depressieve stoornis: eenmalige episode
+D5_4.02.01.01,Depressieve stoornis: eenmalige episode - licht
+D5_4.02.01.02,Depressieve stoornis: eenmalige episode - matig
+D5_4.02.01.03,Depressieve stoornis: eenmalige episode - ernstig
+D5_4.02.01.04,Depressieve stoornis: eenmalige episode - Met psychotische kenmerken
+D5_4.02.01.05,Depressieve stoornis: eenmalige episode - Gedeeltelijk in remissie
+D5_4.02.01.06,Depressieve stoornis: eenmalige episode - Volledig in remissie
+D5_4.02.01.07,Depressieve stoornis: eenmalige episode - Ongespecificeerd
+D5_4.02.02,Depressieve stoornis: recidiverende episode
+D5_4.02.02.01,Depressieve stoornis: recidiverende episode - licht
+D5_4.02.02.02,Depressieve stoornis: recidiverende episode - matig
+D5_4.02.02.03,Depressieve stoornis: recidiverende episode - ernstig
+D5_4.02.02.04,Depressieve stoornis: recidiverende episode - Met psychotische kenmerken
+D5_4.02.02.05,Depressieve stoornis: recidiverende episode - Gedeeltelijk in remissie
+D5_4.02.02.06,Depressieve stoornis: recidiverende episode - Volledig in remissie
+D5_4.02.02.07,Depressieve stoornis: recidiverende episode - Ongespecificeerd
+D5_4.03,Persisterende depressieve stoornis (dysthymie)
+D5_4.03.01,Persisterende depressieve stoornis (dysthymie): vroeg begin
+D5_4.03.02,Persisterende depressieve stoornis (dysthymie): laat begin
+D5_4.03.03,Persisterende depressieve stoornis (dysthymie): met atypische kenmerken
+D5_4.04,Premenstruele stemmingsstoornis
+D5_4.05,Depressieve stemmingsstoornis door een middel
+D5_4.05.01,Depressieve-stemmingsstoornis door alcohol
+D5_4.05.01.01,Depressieve-stemmingsstoornis door alcohol: met begin tijdens intoxicatie
+D5_4.05.01.02,Depressieve-stemmingsstoornis door alcohol: met begin tijdens onttrekking
+D5_4.05.02,Depressieve-stemmingsstoornis door fencyclidine
+D5_4.05.02.01,Depressieve-stemmingsstoornis door fencyclidine: met begin tijdens intoxicatie
+D5_4.05.03,Depressieve-stemmingsstoornis door andere hallucinogenen
+D5_4.05.03.01,Depressieve-stemmingsstoornis door andere hallucinogenen: met begin tijdens intoxicatie
+D5_4.05.04,Depressieve-stemmingsstoornis door hypnotica of anxiolytica
+D5_4.05.04.01,Depressieve-stemmingsstoornis door hypnotica of anxiolytica: met begin tijdens intoxicatie
+D5_4.05.04.02,Depressieve-stemmingsstoornis door hypnotica of anxiolytica: met begin tijdens onttrekking
+D5_4.05.05,Depressieve-stemmingsstoornis door amfetamine (of andere stimulantia)
+D5_4.05.05.01,Depressieve-stemmingsstoornis door amfetamine (of andere stimulantia): met begin tijdens intoxicatie
+D5_4.05.05.02,Depressieve-stemmingsstoornis door amfetamine (of andere stimulantia): met begin tijdens onttrekking
+D5_4.05.06,Depressieve-stemmingsstoornis door coca�ne
+D5_4.05.06.01,Depressieve-stemmingsstoornis door coca�ne: met begin tijdens intoxicatie
+D5_4.05.06.02,Depressieve-stemmingsstoornis door coca�ne: met begin tijdens onttrekking
+D5_4.05.07,Depressieve-stemmingsstoornis door een ander (of onbekend middel)
+D5_4.05.07.01,Depressieve-stemmingsstoornis door een ander (of onbekend middel): met begin tijdens intoxicatie
+D5_4.05.07.02,Depressieve-stemmingsstoornis door een ander (of onbekend middel): met begin tijdens onttrekking
+D5_4.06,Depressieve-stemmingsstoornis door een somatische aandoening
+D5_4.06.01,Depressieve-stemmingsstoornis door een somatische aandoening: met depressieve kenmerken
+D5_4.06.02,Depressieve-stemmingsstoornis door een somatische aandoening: met depressieve episode
+D5_4.06.03,Depressieve-stemmingsstoornis door een somatische aandoening: met gemengde kenmerken
+D5_4.07,Andere depressieve stemmingsstoornissen
+D5_4.07.01,Andere gespecificeerde depressieve-stemmingsstoornis
+D5_4.07.02,Ongespecificeerde depressieve-stemmingsstoornis
+D5_5,Angststoornissen
+D5_5.01,Specifieke fobie
+D5_5.01.01,Specifieke fobie: dier
+D5_5.01.02,Specifieke fobie: natuurlijke omgeving
+D5_5.01.03,Specifieke fobie: bloed-injecties-verwonding
+D5_5.01.04,Specifieke fobie: situationeel
+D5_5.01.05,Specifieke fobie: overige
+D5_5.02,Sociale angststoornis (sociale fobie)
+D5_5.03,Paniekstoornis
+D5_5.04,Agorafobie
+D5_5.05,Gegeneraliseerde-angststoornis
+D5_5.06,Angststoornis door een middel
+D5_5.06.01,Angststoornis door alcohol
+D5_5.06.01.01,Angststoornis door alcohol: met begin tijdens intoxicatie
+D5_5.06.01.02,Angststoornis door alcohol: met begin tijdens onttrekking
+D5_5.06.02,Angststoornis door cafe�ne
+D5_5.06.02.01,Angststoornis door cafe�ne: met begin tijdens intoxicatie
+D5_5.06.03,Angststoornis door cannabis
+D5_5.06.03.01,Angststoornis door cannabis: met begin tijdens intoxicatie
+D5_5.06.04,Angststoornis door fencyclidine
+D5_5.06.04.01,Angststoornis door fencyclidine: met begin tijdens intoxicatie
+D5_5.06.05,Angststoornis door andere hallucinogenen
+D5_5.06.05.01,Angststoornis door andere hallucinogenen: met begin tijdens intoxicatie
+D5_5.06.06,Angststoornis door inhalantia
+D5_5.06.06.01,Angststoornis door inhalantia: met begin tijdens intoxicatie
+D5_5.06.07,Angststoornis door opio�den
+D5_5.06.07.01,Angststoornis door opio�den: met begin tijdens intoxicatie
+D5_5.06.07.02,Angststoornis door opio�den: met begin tijdens onttrekking
+D5_5.06.08,Angststoornis door hypnotica of anxiolytica
+D5_5.06.08.01,Angststoornis door hypnotica of anxiolytica: met begin tijdens onttrekking
+D5_5.06.09,Angststoornis door amfetamine (of andere stimulantia)
+D5_5.06.09.01,Angststoornis door amfetamine (of andere stimulantia): met begin tijdens intoxicatie
+D5_5.06.09.02,Angststoornis door amfetamine (of andere stimulantia): met begin tijdens onttrekking
+D5_5.06.10,Angststoornis door coca�ne
+D5_5.06.10.01,Angststoornis door coca�ne: met begin tijdens intoxicatie
+D5_5.06.10.02,Angststoornis door coca�ne: met begin tijdens onttrekking
+D5_5.06.11,Angststoornis door een ander (of onbekend) middel
+D5_5.06.11.01,Angststoornis door een ander (of onbekend) middel: met begin tijdens intoxicatie
+D5_5.06.11.02,Angststoornis door een ander (of onbekend) middel: met begin tijdens onttrekking
+D5_5.07,Angststoornis door een somatische aandoening
+D5_5.08,Andere angststoornissen
+D5_5.08.01,Andere gespecificeerde angststoornis
+D5_5.08.02,Ongespecificeerde angststoornis
+D5_5.09,Angststoornissen
+D5_5.09.01,Separatieangststoornis
+D5_5.09.02,Selectief mutisme
+D5_6,Obsessieve-compulsieve en verwante stoornissen
+D5_6.01,Obsessieve-compulsieve stoornis
+D5_6.01.01,Obsessieve-compulsieve stoornis: met gering realiteitsbesef
+D5_6.02,Verzamelstoornis
+D5_6.02.01,Verzamelstoornis: met excessief verwerven en/of Gering of ontbrekend realiteitsbesef
+D5_6.03,Morfodysfore stoornis
+D5_6.04,Trichotillomanie (haaruittrekstoornis)
+D5_6.05,Excoriatiestoornis (huidpulkstoornis)
+D5_6.05.01,Excoriatiestoornis (huidpulkstoornis): ernstige lichamelijke complicaties
+D5_6.06,Obsessieve-compulsieve of verwante stoornis door een middel
+D5_6.06.01,Obsessieve-compulsieve of verwante stoornis door amfetamine (of andere stimulantia)
+D5_6.06.01.01,Obsessieve-compulsieve of verwante stoornis door amfetamine (of andere stimulantia): met begin tijdens intoxicatie
+D5_6.06.01.02,Obsessieve-compulsieve of verwante stoornis door amfetamine (of andere stimulantia): met begin tijdens onttrekking
+D5_6.06.02,Obsessieve-compulsieve of verwante stoornis door coca�ne
+D5_6.06.02.01,Obsessieve-compulsieve of verwante stoornis door coca�ne: met begin tijdens intoxicatie
+D5_6.06.02.02,Obsessieve-compulsieve of verwante stoornis door coca�ne: met begin tijdens onttrekking
+D5_6.06.03,Obsessieve-compulsieve of verwante stoornis door een ander (of onbekend) middel
+D5_6.06.03.01,Obsessieve-compulsieve of verwante stoornis door een ander (of onbekend) middel: met begin tijdens intoxicatie
+D5_6.06.03.02,Obsessieve-compulsieve of verwante stoornis door een ander (of onbekend) middel: met begin tijdens onttrekking
+D5_6.07,Obsessieve-compulsieve of verwante stoornis door een somatische aandoening
+D5_6.08,Andere obsessieve-compulsieve of verwante stoornissen
+D5_6.08.01,Andere gespecificeerde obsessieve-compulsieve of verwante stoornis
+D5_6.08.02,Ongespecificeerde obsessieve-compulsieve of verwante stoornis
+D5_7,Trauma- en stressorgerelateerde stoornissen
+D5_7.01,Posttraumatische-stressstoornis
+D5_7.01.01,Posttraumatische stressstoornis (incl. de posttraumatische-stressstoornis bij kinderen van 6 jaar en jonger)
+D5_7.01.02,Posttraumatische stressstoornis (incl. de posttraumatische-stressstoornis bij kinderen van 6 jaar en jonger): met uitgestelde expressie
+D5_7.02,Acute stressstoornis
+D5_7.03,Aanpassingsstoornissen
+D5_7.03.01,Aanpassingsstoornissen - met een sombere stemming
+D5_7.03.01.01,Aanpassingsstoornissen - met een sombere stemming: acuut
+D5_7.03.01.02,Aanpassingsstoornissen - met een sombere stemming: persisterend (chronisch)
+D5_7.03.02,Aanpassingsstoornissen - met angst
+D5_7.03.02.01,Aanpassingsstoornissen - met angst: acuut
+D5_7.03.02.02,Aanpassingsstoornissen - met angst: persisterend (chronisch)
+D5_7.03.03,Aanpassingsstoornissen - met gemengd angstige en sombere stemming
+D5_7.03.03.01,Aanpassingsstoornissen - met gemengd angstige en sombere stemming: acuut
+D5_7.03.03.02,Aanpassingsstoornissen - met gemengd angstige en sombere stemming: persisterend (chronisch)
+D5_7.03.04,Aanpassingsstoornissen - met een stoornis in het gedrag
+D5_7.03.04.01,Aanpassingsstoornissen - met een stoornis in het gedrag: acuut
+D5_7.03.04.02,Aanpassingsstoornissen - met een stoornis in het gedrag: persisterend (chronisch)
+D5_7.03.05,Aanpassingsstoornissen - met een gemengde stoornis van emoties en gedrag
+D5_7.03.05.01,Aanpassingsstoornissen - met een gemengde stoornis van emoties en gedrag: acuut
+D5_7.03.05.02,Aanpassingsstoornissen - met een gemengde stoornis van emoties en gedrag: persisterend (chronisch)
+D5_7.03.06,Aanpassingsstoornissen - Ongespecificeerd
+D5_7.03.06.01,Aanpassingsstoornissen - Ongespecificeerd: acuut
+D5_7.03.06.02,Aanpassingsstoornissen - Ongespecificeerd: persisterend (chronisch)
+D5_7.03.07,Andere trauma- of stressor-gerelateerde stoornissen
+D5_7.03.07.01,Andere gespecificeerde trauma- of stressorgerelateerde stoornis
+D5_7.03.07.02,Ongespecificeerde trauma- of stressor-gerelateerde stoornis
+D5_7.03.08,Trauma- of stressor-gerelateerde stoornissen
+D5_7.03.08.01,Reactieve hechtingsstoornis
+D5_7.03.08.02,Ontremd sociaalcontactstoornis
+D5_8,Dissociatieve stoornissen
+D5_8.01,Dissociatieve identiteitsstoornis
+D5_8.02,Dissociatieve amnesie
+D5_8.02.01,Dissociatieve amnesie: met dissociatieve fugue
+D5_8.03,Depersonalisatie- / derealisatiestoornis
+D5_8.04,Andere dissociatieve stoornissen
+D5_8.04.01,Andere gespecificeerde dissociatieve stoornis
+D5_8.04.02,Ongespecificeerde dissociatieve stoornis
+D5_9,Somatisch-symptoomstoornis en verwante stoornissen
+D5_9.01,Somatisch-symptoomstoornis
+D5_9.02,Ziekteangststoornis
+D5_9.03,Conversiestoornis (functioneel-neurologisch-symptoomstoornis)
+D5_9.03.01,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met zwakte of paralyse
+D5_9.03.02,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met abnormale bewegingen
+D5_9.03.03,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met sliksymptomen
+D5_9.03.04,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met spraaksymptomen
+D5_9.03.05,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met aanvullen of convulsies
+D5_9.03.06,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met anesthesie of sensibiliteitsverlies
+D5_9.03.07,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met speciale zintuigelijke symptomen
+D5_9.03.08,Conversiestoornis (functioneel-neurologisch-symptoomstoornis): met gemengde symptomen
+D5_9.04,Psychische factoren die somatische aandoeningen be�nvloeden
+D5_9.05,Nagebootste stoornis (pathomimie)
+D5_9.06,Andere somatisch-symptoomstoornis of verwante stoornissen
+D5_9.06.01,Andere gespecificeerde somatisch-symptoomstoornis of verwante stoornis
+D5_9.06.02,Ongespecificeerde somatisch-symptoomstoornis of verwante stoornis

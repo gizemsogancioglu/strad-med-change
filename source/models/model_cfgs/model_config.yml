@@ -1,0 +1,32 @@
+fn: medication_change_prediction
+validation_type: hs
+finetune_bert: False
+mlp_layers: True
+ablation_mode: True         # if False, runs Bayesian search for hyperparam tuning, otherwise runs a single training with fixed architecture and 
+                            # optimization params
+
+architecture_configs:
+  - name: xgboost-all-feats
+    model: xgboost
+   
+  # - name: lstm_attention
+  #   model: time-lstm
+  #   fusion: concat
+  #   use_bow_meds: False
+  #   use_bow_diag: True
+  #   use_global_proj: False
+
+  # - name: lstm_meanpool
+  #   model: bert-lstm
+  #   fusion: mean_pool         # masked uniform mean → backbone input = 32
+  #   modality_dim: 32
+  #   use_bow_meds: True
+  #   use_bow_diag: True
+
+# To run Bayesian search — set ablation_mode False in yaml:
+# - name: lstm_search
+#   model: bert-lstm
+#   fusion: attention
+#   use_bow_meds: True
+#   use_bow_diag: True
+#   ablation_mode: True    # ← triggers Bayesian search if false
